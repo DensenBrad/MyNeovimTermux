@@ -14,6 +14,10 @@ echo "## Set background to purple"
 cp colors.properties $HOME/.termux/colors.properties
 echo
 
+echo "## Reload"
+termux-reload-settings
+echo
+
 echo "## Create .vimrc"
 touch $HOME/.vimrc
 echo 
