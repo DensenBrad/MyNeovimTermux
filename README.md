@@ -19,4 +19,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/DensenBrad/my-termux-setup
 
 ## Screenshots
 NeoVim
-![nvim](https://raw.githubusercontent.com/DensenBrad/my-termux-setup/main/Screenshot_20211002-073333_Termux.jpg)
+![nvim](https://raw.githubusercontent.com/DensenBrad/MyNeovimTermux/main/Screenshot_20211002-073333_Termux.jpg)
