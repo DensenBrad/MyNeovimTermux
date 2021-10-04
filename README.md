@@ -14,7 +14,7 @@ This is my termux and nvim configuration for coding in mobile phone using Termux
 ## How to apply ?
 Just run this one lined command:
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/DensenBrad/my-termux-setup/main/setup.sh)"
+wget -O - https://raw.githubusercontent.com/DensenBrad/MyNeovimTermux/main/setup.sh | bash
 ```
 
 ## Screenshots
