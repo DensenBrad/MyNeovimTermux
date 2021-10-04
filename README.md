@@ -7,7 +7,7 @@ This is my termux and nvim configuration for coding in mobile phone using Termux
 2. Background
 
 ## What's my nvim configuration for?
-1. File Manager, using NERDTree
+1. File Manager, using NERDTree (Press 'F2' to open/close file manager tab)
 2. ...
 (You can see on plugins we need to install ^_^)
 
